@@ -1,0 +1,22 @@
+{
+  "name": "ci-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "a.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha ./a.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoBey/ci-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoBey/ci-test/issues"
+  },
+  "homepage": "https://github.com/NoBey/ci-test#readme",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
